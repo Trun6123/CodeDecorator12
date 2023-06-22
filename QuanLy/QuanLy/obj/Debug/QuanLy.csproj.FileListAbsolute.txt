@@ -1,0 +1,15 @@
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\bin\Debug\QuanLy.exe.config
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\bin\Debug\QuanLy.exe
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\bin\Debug\QuanLy.pdb
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.csprojAssemblyReference.cache
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.CoreCompileInputs.cache
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.exe
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.FrmMain.resources
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.KhachHang.resources
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.cache
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.Userf.resources
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.NhaSanXuat.resources
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.TheKhuyenMai.resources
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.TienVanChuyen.resources
+D:\DuAnNgoai\2023\Decor C#\QuanLyBanHang\QuanLy\QuanLy\obj\Debug\QuanLy.DatHang.resources
